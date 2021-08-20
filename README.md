@@ -1,4 +1,4 @@
-# React Note Keeper (Google Keep Clone)
+# Progressive Web Application React Note Keeper
 
 Quickly capture what's on your mind.
 
